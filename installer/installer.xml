@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<properties>
+   <application>mmWave_Fluid_Level_Transmitter_1_0_0</application>
+   <icon>mmWave_Fluid_Level_Transmitter_1_0_0/installer/GUIDesigner_projectShortcut.ico</icon>
+   <banner>mmWave_Fluid_Level_Transmitter_1_0_0/installer/installerTopBanner.gif</banner>
+   <licensefile>mmWave_Fluid_Level_Transmitter_1_0_0/installer/license.txt</licensefile>
+   <readme>mmWave_Fluid_Level_Transmitter_1_0_0/docs/readme.txt</readme>
+   <releasenotes>mmWave_Fluid_Level_Transmitter_1_0_0/docs/readme.txt</releasenotes>
+<gcruntime_version>5.0.0</gcruntime_version>
+<app_version>1.0.0</app_version>
+   <components_version>1.7</components_version>
+</properties>
